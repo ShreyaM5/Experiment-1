@@ -1,3 +1,3 @@
-# Experiment-1
-To understand the basics of Git and GitHub and set up a GitHub account and repository.
-This repository is created for Experiment 1 (OST).
+# Experiment-5
+Aim: To understand collaborative workflows on GitHub.
+Activity: Fork a public repository, make changes, and create a pull request.
